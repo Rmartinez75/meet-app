@@ -21,7 +21,7 @@ const credentials = {
   auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
   redirect_uris: ['https://rmartinez75.github.io/meet-app/'],
   javascript_origins: [
-    'https://rmartinez75.github.io',
+    'https://rmartinez75.github.io/meet-app/',
     'http://localhost:3000',
   ],
 };
