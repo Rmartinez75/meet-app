@@ -1,3 +1,5 @@
+org: rmartinez75
+app: auth-server-app
 service: auth-server
 
 frameworkVersion: '2'
